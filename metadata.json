@@ -1,0 +1,6 @@
+{
+  "name": "BooruVault",
+  "description": "Native Android image downloader and offline gallery with Danbooru, Gelbooru, and Yande.re integration",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
